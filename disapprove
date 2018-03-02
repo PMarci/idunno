@@ -40,5 +40,5 @@ clipcopy () {
 		fi
 	fi
 }
+curl -4 -s http://faceofdisapproval.com | xmllint --noblanks --html --xpath 'string(//div[@class="face"])' - | clipcopy && echo "disapproved. ಠ_ಠ"
 
-curl -4 -s http://idunnolol.com | xmllint --noblanks --xpath 'string(//div/p[1])' - | clipcopy && echo 'what? ¯\(°_o)/¯'
