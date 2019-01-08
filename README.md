@@ -8,4 +8,5 @@ Downloads and extracts the "i dunno lol" emoticon with xpath, and uses clipcopy 
 Uses clipcopy from [oh-my-zsh/clipboard.zsh](https://github.com/robbyrussell/oh-my-zsh/blob/2ff9560ad3fc6a3da256d34d0ba804b01d222293/lib/clipboard.zsh#L18 "oh-my-zsh/clipboard.zsh").
 
 # Features
-[doesn't work if you actually use zsh...](idunno#1)
+[doesn't work if you actually use zsh...](https://github.com/PMarci/idunno/issues/1)
+
